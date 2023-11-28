@@ -1,0 +1,22 @@
+.header {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-image {
+  width: 120px;
+}
+.logout {
+  border: 1px solid #ffffff;
+  font-family: 'roboto';
+  outline: none;
+  background-color: transparent;
+  color: #ffffff;
+  height: 28px;
+  width: 80px;
+  cursor: pointer;
+}

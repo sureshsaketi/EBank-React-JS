@@ -1,0 +1,23 @@
+.home-page {
+  height: 100vh;
+  background-color: #152850;
+  background-size: cover;
+  padding: 40px;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  height: 90%;
+}
+.home-heading {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 40px;
+  text-align: center;
+}
+.digital-card {
+  width: 350px;
+}
